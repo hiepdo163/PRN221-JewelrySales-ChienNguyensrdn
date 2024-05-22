@@ -1,4 +1,5 @@
 # PRN221-JewelrySales-ChienNguyensrdn
+## FE
 Phần mềm quản lý bán hàng trang sức cho công ty kinh doanh trang sức tại 01 cửa hàng có nhiều quầy hàng
 
 # Team member:
